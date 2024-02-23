@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            something1{" "}
+            what just happened tanay lost ?????{" "}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
